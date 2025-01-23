@@ -35,7 +35,7 @@ const questions=[ {
     ]
 }
 ];
-
+// ------------------------------------hello-------------------------------
 const questionElement =document.getElementById("question");
 const answerButton =document.getElementById("answer-button");
 const nextButton =document.getElementById("next-btn");
